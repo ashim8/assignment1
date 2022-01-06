@@ -1,0 +1,191 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 40px;
+}
+.first-half-title{
+    color:  midnightblue;
+   
+}
+.second-half-title{
+    color: darkgreen;
+    
+}
+.half-width{
+    width: 50%;
+    padding-left: 10%;
+   
+}
+.half-width img{
+    width: 70%;
+
+}
+.flexible-container{
+    display: flex;
+    margin-bottom: 50px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, rgb(235, 49, 16));
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+}
+
+.head-title{
+    border-left: 4px solid red;
+    padding: 0;
+    margin: 0;
+    padding-left: 5px;
+    margin-top: 50px;
+    position: relative;
+    
+}
+.head-title h1{
+    padding: 0;
+    margin: 0;
+}
+.mission{
+    text-align: center;
+
+}
+.flexible-container1{
+    display: flex;
+    margin: 0px;
+    padding-left: 10%;
+    padding-right: 10%;
+
+}
+.flexible-container1 img{
+    height: 130px;
+    width: 130px;
+}
+
+.div1{
+    padding-left: 3%;
+    background-color: olive;
+    border-radius: 15px;
+    margin-right: 2%;
+
+}
+.div2{
+    padding-left: 3%;
+    background-color: teal;
+    border-radius: 15px;
+    margin-right: 2%;
+
+}
+.div3{
+    padding-left: 2%;
+    background-color: peru;
+    border-radius: 15px;
+    margin-right: 2%;
+
+}
+.flexible-container2{
+    display: flex;
+    margin: 0px;
+    padding-top: 40px;
+   
+
+}
+.flexible-container2 img{
+    height: 370px;
+    width: 400px;
+}
+.half-width1{
+    padding: 0;
+    margin: 0;
+    width: 40%;
+    padding-left: 0%;
+    position: relative;
+   
+}
+
+
+.half-width3{
+    width: 60%;
+    padding-left: 10px;
+
+}
+.half-width3 h1{
+    padding: 0;
+    margin: 0;
+}
+.half-width1 img{
+    position: absolute;
+}
+.abcd img{
+    height: 80%;
+    width: 50%;
+    position: absolute;
+    padding-top: 10%;
+
+}
+.abcd2 img{
+    padding-left: 20%;
+}
+.half-width4{
+    
+    padding-top: 20px;
+    padding-left: 8%;
+    padding-right: 50px;
+}
+
+.half-width5{
+    padding: 0;
+    margin: 0;
+    width: 60%;
+    padding-right: 0%;
+    position: relative;
+   
+}
+.abcde img{
+    height: 60%;
+    width: 70%;
+    position: absolute;
+    padding-top: 15%;
+
+}
+.abcd3 img{
+    padding-left: 190px;
+    padding-top: 40%;
+}
+.div7{
+    margin: 0;
+    padding-top: 20px;
+    padding-left: 10%;
+    width: 50%;
+}
+.div7 img{
+    height: 300px;
+    width: 350px;
+}
+.AB{
+    text-align: justify;
+    padding-right: 10%;
+    margin: 0;
+    width: 50%;
+}
+.flexible-container9{
+    display: flex;
+    margin: 0;
+    margin-bottom: 100px;
+}
+.ABC{
+    background-color: black;
+    color: blanchedalmond;
+    margin: 0;
+}
+footer{
+    text-align: center;
+    padding: 3px;
+    background-color: black;
+    color: white;
+}
+.footer-color{
+    color: darkolivegreen;
+}
